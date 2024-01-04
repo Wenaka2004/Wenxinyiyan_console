@@ -1,0 +1,2 @@
+# Wenxinyiyan_console
+简单的使用python调用文心一言api实现对话的命令行代码
